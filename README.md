@@ -2,6 +2,10 @@
 
 This repository contains Power BI dashboards developed using a social media dataset.
 
+## Project Description
+
+This repository contains five Power BI dashboards created using a social media engagement dataset. The project demonstrates data cleaning with Power Query, data modeling, DAX measures, and interactive visualizations to analyze tweet performance and user engagement.
+
 ## Dashboards
 
 1. Tweet Interaction Breakdown by Category
