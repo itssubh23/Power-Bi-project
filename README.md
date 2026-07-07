@@ -6,7 +6,7 @@ This repository contains Power BI dashboards developed using a social media data
 
 1. Tweet Interaction Breakdown by Category
 2. Engagement Rate comaprison
-3. Media Interaction by Day of Week
+3. Media Interaction by Day
 4. Replies, Retweets and Likes Comparison
 5. Monthly Engagement Trend
 6. Top 10 Tweets by Engagement
